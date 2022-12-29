@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-frontend-modules-storage",
+  "version": "0.0.2",
+  "description": "frontend/modules/storage.js: A module bundled by ac-bundle-module.",
+  "main": "frontend/modules/storage.js",
+  "scripts": {
+    "start": "node frontend/modules/storage.js"
+  },
+  "keywords": [
+    "frontend/modules/storage.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-frontend-modules-storage/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
